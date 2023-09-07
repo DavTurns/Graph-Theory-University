@@ -1,0 +1,10 @@
+Sibiu Bucuresti 185
+Sibiu Cluj 119
+Sibiu Suceava 152
+Sibiu Oradea 133
+Bucuresti Cluj 121
+Bucuresti Suceava 150
+Bucuresti Oradea 200
+Cluj Suceava 174
+Cluj Oradea 120
+Suceava Oradea 199
